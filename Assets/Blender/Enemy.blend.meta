@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 378726b530cb8cb4aadc6dc10b37c66b
+timeCreated: 1495395287
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ArmDeform_L
+    100004: ArmDeform_R
+    100006: ArmIK_L
+    100008: ArmIK_R
+    100010: Butt_L
+    100012: Butt_R
+    100014: //RootNode
+    100016: Foot_L
+    100018: Foot_R
+    100020: ForearmDeform_L
+    100022: ForearmDeform_R
+    100024: ForearmIK_L
+    100026: ForearmIK_R
+    100028: HandDeform_L
+    100030: HandDeform_R
+    100032: Head
+    100034: Heel_L
+    100036: Heel_R
+    100038: Hip_L
+    100040: Hip_R
+    100042: IndexBase_L
+    100044: IndexBase_R
+    100046: IndexDeform1_L
+    100048: IndexDeform1_R
+    100050: IndexDeform2_L
+    100052: IndexDeform2_R
+    100054: IndexDeform3_L
+    100056: IndexDeform3_R
+    100058: LegLower_L
+    100060: LegLower_R
+    100062: LegUpper_L
+    100064: LegUpper_R
+    100066: MiddleBase_L
+    100068: MiddleBase_R
+    100070: MiddleDeform1_L
+    100072: MiddleDeform1_R
+    100074: MiddleDeform2_L
+    100076: MiddleDeform2_R
+    100078: MiddleDeform3_L
+    100080: MiddleDeform3_R
+    100082: Neck
+    100084: PelvisMaster
+    100086: PelvisSon
+    100088: PinkyBase_L
+    100090: PinkyBase_R
+    100092: PinkyDeform1_L
+    100094: PinkyDeform1_R
+    100096: PinkyDeform2_L
+    100098: PinkyDeform2_R
+    100100: PinkyDeform3_L
+    100102: PinkyDeform3_R
+    100104: Player
+    100106: RingBase_L
+    100108: RingBase_R
+    100110: RingDeform1_L
+    100112: RingDeform1_R
+    100114: RingDeform2_L
+    100116: RingDeform2_R
+    100118: RingDeform3_L
+    100120: RingDeform3_R
+    100122: Shoulder_L
+    100124: Shoulder_R
+    100126: SpineLower
+    100128: SpineUpper
+    100130: ThumbBase_L
+    100132: ThumbBase_R
+    100134: ThumbDeform1_L
+    100136: ThumbDeform1_R
+    100138: ThumbDeform2_L
+    100140: ThumbDeform2_R
+    100142: ThumbDeform3_L
+    100144: ThumbDeform3_R
+    400000: Armature
+    400002: ArmDeform_L
+    400004: ArmDeform_R
+    400006: ArmIK_L
+    400008: ArmIK_R
+    400010: Butt_L
+    400012: Butt_R
+    400014: //RootNode
+    400016: Foot_L
+    400018: Foot_R
+    400020: ForearmDeform_L
+    400022: ForearmDeform_R
+    400024: ForearmIK_L
+    400026: ForearmIK_R
+    400028: HandDeform_L
+    400030: HandDeform_R
+    400032: Head
+    400034: Heel_L
+    400036: Heel_R
+    400038: Hip_L
+    400040: Hip_R
+    400042: IndexBase_L
+    400044: IndexBase_R
+    400046: IndexDeform1_L
+    400048: IndexDeform1_R
+    400050: IndexDeform2_L
+    400052: IndexDeform2_R
+    400054: IndexDeform3_L
+    400056: IndexDeform3_R
+    400058: LegLower_L
+    400060: LegLower_R
+    400062: LegUpper_L
+    400064: LegUpper_R
+    400066: MiddleBase_L
+    400068: MiddleBase_R
+    400070: MiddleDeform1_L
+    400072: MiddleDeform1_R
+    400074: MiddleDeform2_L
+    400076: MiddleDeform2_R
+    400078: MiddleDeform3_L
+    400080: MiddleDeform3_R
+    400082: Neck
+    400084: PelvisMaster
+    400086: PelvisSon
+    400088: PinkyBase_L
+    400090: PinkyBase_R
+    400092: PinkyDeform1_L
+    400094: PinkyDeform1_R
+    400096: PinkyDeform2_L
+    400098: PinkyDeform2_R
+    400100: PinkyDeform3_L
+    400102: PinkyDeform3_R
+    400104: Player
+    400106: RingBase_L
+    400108: RingBase_R
+    400110: RingDeform1_L
+    400112: RingDeform1_R
+    400114: RingDeform2_L
+    400116: RingDeform2_R
+    400118: RingDeform3_L
+    400120: RingDeform3_R
+    400122: Shoulder_L
+    400124: Shoulder_R
+    400126: SpineLower
+    400128: SpineUpper
+    400130: ThumbBase_L
+    400132: ThumbBase_R
+    400134: ThumbDeform1_L
+    400136: ThumbDeform1_R
+    400138: ThumbDeform2_L
+    400140: ThumbDeform2_R
+    400142: ThumbDeform3_L
+    400144: ThumbDeform3_R
+    4300000: Player
+    7400000: Default Take
+    7400002: Idle
+    7400004: Jump
+    7400006: Punch
+    7400008: Walk
+    9500000: //RootNode
+    13700000: Player
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

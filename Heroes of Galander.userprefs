@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CastleDefense\PluggableAI\CastleDefense_BasicStateController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Wizard\FireBreath.cs" Line="37" Column="21" />
+      <File FileName="Assets\Scripts\CastleDefense\PluggableAI\CastleDefense_BasicStateController.cs" Line="27" Column="4" />
+      <File FileName="Assets\Scripts\CastleDefense\PluggableAI\Actions\ChaseKingAction.cs" Line="14" Column="53" />
+      <File FileName="Assets\Scripts\CastleDefense\CastleDefense_GameController.cs" Line="14" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
